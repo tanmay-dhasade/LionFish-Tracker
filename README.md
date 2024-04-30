@@ -15,4 +15,4 @@ Sample train data
 Trained on: NVIDIA GeForce RTX 3060 Laptop GPU
 
 Model performance
-
+![plot](./assets/test_prediction.jpg)
