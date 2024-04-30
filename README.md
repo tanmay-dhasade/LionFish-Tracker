@@ -7,7 +7,7 @@ Following is the Confusion Matrix, The model performed good on test dataset with
 Precision = 100
 Recall = 95.83
 ![](./assets/confusion_matrix.jpg | width=100)
-
+<img src="./assets/confusion_matrix.jpg" width="100" height="100"/>
 F1 Score
 
 
